@@ -1,0 +1,6 @@
+
+oneapp:
+  coursestructure:
+    api: /services/api/mobile/service/coursestructure
+    eq: 
+      - ["content.serviceResponse.level.levelCode", "0A"]
